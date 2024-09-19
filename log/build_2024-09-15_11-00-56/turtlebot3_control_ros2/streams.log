@@ -1,0 +1,25 @@
+[0.370s] Invoking command in '/home/andressa/turtlebot3_ws/src/turtlebot3_control_ros2': PYTHONPATH=/home/andressa/turtlebot3_ws/src/turtlebot3_control_ros2/build/turtlebot3_control_ros2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/andressa/turtlebot3_ws/src/turtlebot3_control_ros2/install/turtlebot3_control_ros2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/turtlebot3_control_ros2 build --build-base /home/andressa/turtlebot3_ws/src/turtlebot3_control_ros2/build/turtlebot3_control_ros2/build install --record /home/andressa/turtlebot3_ws/src/turtlebot3_control_ros2/build/turtlebot3_control_ros2/install.log --single-version-externally-managed install_data
+[0.507s] running egg_info
+[0.510s] writing build/turtlebot3_control_ros2/turtlebot3_control_ros2.egg-info/PKG-INFO
+[0.510s] writing dependency_links to build/turtlebot3_control_ros2/turtlebot3_control_ros2.egg-info/dependency_links.txt
+[0.510s] writing entry points to build/turtlebot3_control_ros2/turtlebot3_control_ros2.egg-info/entry_points.txt
+[0.510s] writing requirements to build/turtlebot3_control_ros2/turtlebot3_control_ros2.egg-info/requires.txt
+[0.510s] writing top-level names to build/turtlebot3_control_ros2/turtlebot3_control_ros2.egg-info/top_level.txt
+[0.511s] reading manifest file 'build/turtlebot3_control_ros2/turtlebot3_control_ros2.egg-info/SOURCES.txt'
+[0.511s] adding license file 'LICENSE'
+[0.511s] writing manifest file 'build/turtlebot3_control_ros2/turtlebot3_control_ros2.egg-info/SOURCES.txt'
+[0.511s] running build
+[0.512s] running build_py
+[0.512s] copying turtlebot3_control_ros2/turtlebot_ctrl.py -> /home/andressa/turtlebot3_ws/src/turtlebot3_control_ros2/build/turtlebot3_control_ros2/build/lib/turtlebot3_control_ros2
+[0.512s] running install
+[0.512s] running install_lib
+[0.512s] copying /home/andressa/turtlebot3_ws/src/turtlebot3_control_ros2/build/turtlebot3_control_ros2/build/lib/turtlebot3_control_ros2/turtlebot_ctrl.py -> /home/andressa/turtlebot3_ws/src/turtlebot3_control_ros2/install/turtlebot3_control_ros2/lib/python3.10/site-packages/turtlebot3_control_ros2
+[0.513s] byte-compiling /home/andressa/turtlebot3_ws/src/turtlebot3_control_ros2/install/turtlebot3_control_ros2/lib/python3.10/site-packages/turtlebot3_control_ros2/turtlebot_ctrl.py to turtlebot_ctrl.cpython-310.pyc
+[0.514s] running install_data
+[0.514s] running install_egg_info
+[0.515s] removing '/home/andressa/turtlebot3_ws/src/turtlebot3_control_ros2/install/turtlebot3_control_ros2/lib/python3.10/site-packages/turtlebot3_control_ros2-0.0.0-py3.10.egg-info' (and everything under it)
+[0.515s] Copying build/turtlebot3_control_ros2/turtlebot3_control_ros2.egg-info to /home/andressa/turtlebot3_ws/src/turtlebot3_control_ros2/install/turtlebot3_control_ros2/lib/python3.10/site-packages/turtlebot3_control_ros2-0.0.0-py3.10.egg-info
+[0.515s] running install_scripts
+[0.526s] Installing turtlebot_ctrl script to /home/andressa/turtlebot3_ws/src/turtlebot3_control_ros2/install/turtlebot3_control_ros2/lib/turtlebot3_control_ros2
+[0.526s] writing list of installed files to '/home/andressa/turtlebot3_ws/src/turtlebot3_control_ros2/build/turtlebot3_control_ros2/install.log'
+[0.541s] Invoked command in '/home/andressa/turtlebot3_ws/src/turtlebot3_control_ros2' returned '0': PYTHONPATH=/home/andressa/turtlebot3_ws/src/turtlebot3_control_ros2/build/turtlebot3_control_ros2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/andressa/turtlebot3_ws/src/turtlebot3_control_ros2/install/turtlebot3_control_ros2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/turtlebot3_control_ros2 build --build-base /home/andressa/turtlebot3_ws/src/turtlebot3_control_ros2/build/turtlebot3_control_ros2/build install --record /home/andressa/turtlebot3_ws/src/turtlebot3_control_ros2/build/turtlebot3_control_ros2/install.log --single-version-externally-managed install_data
