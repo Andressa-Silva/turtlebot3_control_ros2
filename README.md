@@ -18,7 +18,7 @@ python3 turtlebot_ctrl.py
 
 A* (A star)
 ```bash
-python3 turtlebot_ctrl.py
+python3 Astar.py
 ```
 
 Video (https://youtu.be/v6KSk4tJlco)
